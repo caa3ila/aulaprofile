@@ -43,6 +43,10 @@ p{
     text-align: center;
     color: white;
 }
+nav#menu a{
+    color: white;
+    text-decoration: none;
+}
 
 nav#menu ul{
     list-style: none;
